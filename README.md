@@ -1,3 +1,4 @@
+![logo](https://github.com/Chaitukarpurapu/Readme/blob/main/wall.jpg)
 <h2 align="left">Hi 👋! My name is  CHAITANYA KISHORE </h2>
 
 ###
